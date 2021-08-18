@@ -1,5 +1,12 @@
 # Changelog
 
+## [2.2.0](https://www.github.com/GoogleCloudPlatform/public-datasets-pipelines/compare/v2.1.0...v2.2.0) (2021-08-18)
+
+
+### Features
+
+* Onboard GEOS-FP dataset ([#130](https://www.github.com/GoogleCloudPlatform/public-datasets-pipelines/issues/130)) ([d32f46b](https://www.github.com/GoogleCloudPlatform/public-datasets-pipelines/commit/d32f46ba70b38c06d1cbe4d9448f65a4daf65671))
+
 ## [2.1.0](https://www.github.com/GoogleCloudPlatform/public-datasets-pipelines/compare/v2.0.0...v2.1.0) (2021-08-13)
 
 
